@@ -5,10 +5,9 @@ Cột **Số trang** = số trang trên lovecard.click đang dùng bài đó.
 
 | Số trang | Tên gốc trên web | Đặt tại | Nguồn hiện tại |
 |---:|---|---|---|
-| 147 | 50 Năm Về Sau.mp3 | `lovecard/wedding-vn/50-nam-ve-sau.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/50 Năm Về Sau.mp3 |
+| 206 | 50 Năm Về Sau.mp3 | `lovecard/wedding-vn/50-nam-ve-sau.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/50 Năm Về Sau.mp3<br>https://files.catbox.moe/4dbkye.mp3 |
 | 92 | I Do - 911.mp3 | `lovecard/wedding-en/i-do-911.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/I Do - 911.mp3<br>https://cdn.jsdelivr.net/gh/beckneee-dev/mp3-hosting/I DO - 911.mp3 |
 | 74 | VÁY CƯỚI - ERIK x Ms.mp3 | `lovecard/wedding-vn/vay-cuoi-erik-x-ms.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/VÁY CƯỚI - ERIK x Ms.mp3 |
-| 59 | 4dbkye.mp3 | `lovecard/wedding-en/4dbkye.mp3` | https://files.catbox.moe/4dbkye.mp3 |
 | 45 | Beautiful in White - Westlife.mp3 | `lovecard/wedding-en/beautiful-in-white-westlife.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Beautiful in White - Westlife.mp3 |
 | 41 | Một Đời + Lễ Đường (Mix).mp3 | `lovecard/wedding-vn/mot-doi-le-duong-mix.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Một Đời + Lễ Đường (Mix).mp3 |
 | 27 | A Thousand Years - Christina Perri.mp3 | `lovecard/wedding-en/a-thousand-years-christina-perri.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/A Thousand Years - Christina Perri.mp3 |
