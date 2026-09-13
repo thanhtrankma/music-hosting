@@ -1,6 +1,431 @@
 {
- "generated": "2026-09-13 13:28:30",
- "cdn_base": "https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting@main/",
- "count": 0,
- "files": []
+ "generated": "2026-09-13 13:50:00",
+ "cdn_base": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/",
+ "count": 53,
+ "files": [
+  {
+   "project": "lovecard",
+   "category": "birthday",
+   "file": "happy-birthday-piano-version.mp3",
+   "path": "lovecard/birthday/happy-birthday-piano-version.mp3",
+   "size_mb": 1.45,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/birthday/happy-birthday-piano-version.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "instrumental",
+   "file": "cuoi-chinh-remix.mp3",
+   "path": "lovecard/instrumental/cuoi-chinh-remix.mp3",
+   "size_mb": 3.32,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/instrumental/cuoi-chinh-remix.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "instrumental",
+   "file": "khong-loi-50-nam-ve-sauu.mp3",
+   "path": "lovecard/instrumental/khong-loi-50-nam-ve-sauu.mp3",
+   "size_mb": 3.64,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/instrumental/khong-loi-50-nam-ve-sauu.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "instrumental",
+   "file": "nhac-giao-huong-1.mp3",
+   "path": "lovecard/instrumental/nhac-giao-huong-1.mp3",
+   "size_mb": 0.77,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/instrumental/nhac-giao-huong-1.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "instrumental",
+   "file": "yeu-em-hon-moi-ngay-lofi-ver-andiez-x-freak-d.mp3",
+   "path": "lovecard/instrumental/yeu-em-hon-moi-ngay-lofi-ver-andiez-x-freak-d.mp3",
+   "size_mb": 2.93,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/instrumental/yeu-em-hon-moi-ngay-lofi-ver-andiez-x-freak-d.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "a-thousand-years-christina-perri.mp3",
+   "path": "lovecard/wedding-en/a-thousand-years-christina-perri.mp3",
+   "size_mb": 0.93,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/a-thousand-years-christina-perri.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "beautiful-in-white-westlife.mp3",
+   "path": "lovecard/wedding-en/beautiful-in-white-westlife.mp3",
+   "size_mb": 3.28,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/beautiful-in-white-westlife.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "beautiful-things-benson-boone.mp3",
+   "path": "lovecard/wedding-en/beautiful-things-benson-boone.mp3",
+   "size_mb": 2.66,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/beautiful-things-benson-boone.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "bruno-mars-marry-you.mp3",
+   "path": "lovecard/wedding-en/bruno-mars-marry-you.mp3",
+   "size_mb": 3.42,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/bruno-mars-marry-you.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "die-with-a-smile-1.mp3",
+   "path": "lovecard/wedding-en/die-with-a-smile-1.mp3",
+   "size_mb": 3.76,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/die-with-a-smile-1.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "ed-sheeran-perfect.mp3",
+   "path": "lovecard/wedding-en/ed-sheeran-perfect.mp3",
+   "size_mb": 3.64,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/ed-sheeran-perfect.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "everytime-we-touch-cascad.mp3",
+   "path": "lovecard/wedding-en/everytime-we-touch-cascad.mp3",
+   "size_mb": 3.11,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/everytime-we-touch-cascad.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "forever-starts-today.mp3",
+   "path": "lovecard/wedding-en/forever-starts-today.mp3",
+   "size_mb": 3.67,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/forever-starts-today.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "greeeen-ptutapidlqq.mp3",
+   "path": "lovecard/wedding-en/greeeen-ptutapidlqq.mp3",
+   "size_mb": 3.9,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/greeeen-ptutapidlqq.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "i-do-911.mp3",
+   "path": "lovecard/wedding-en/i-do-911.mp3",
+   "size_mb": 2.9,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/i-do-911.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "ido.wav",
+   "path": "lovecard/wedding-en/ido.wav",
+   "size_mb": 3.2,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/ido.wav"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "jvke-golden-hour.mp3",
+   "path": "lovecard/wedding-en/jvke-golden-hour.mp3",
+   "size_mb": 2.1,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/jvke-golden-hour.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "like-my-father.mp3",
+   "path": "lovecard/wedding-en/like-my-father.mp3",
+   "size_mb": 0.93,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/like-my-father.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "love-story-1.mp3",
+   "path": "lovecard/wedding-en/love-story-1.mp3",
+   "size_mb": 1.44,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/love-story-1.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "mpeg.mp3",
+   "path": "lovecard/wedding-en/mpeg.mp3",
+   "size_mb": 3.94,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/mpeg.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "my-love-westlife.mp3",
+   "path": "lovecard/wedding-en/my-love-westlife.mp3",
+   "size_mb": 2.24,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/my-love-westlife.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "nothing-s-gonna-change-my-love-for-you-music-travel-love.mp3",
+   "path": "lovecard/wedding-en/nothing-s-gonna-change-my-love-for-you-music-travel-love.mp3",
+   "size_mb": 2.6,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/nothing-s-gonna-change-my-love-for-you-music-travel-love.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "ordinary-alex-warren.mp3",
+   "path": "lovecard/wedding-en/ordinary-alex-warren.mp3",
+   "size_mb": 2.32,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/ordinary-alex-warren.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-en",
+   "file": "young-and-beautiful.mp3",
+   "path": "lovecard/wedding-en/young-and-beautiful.mp3",
+   "size_mb": 0.55,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/young-and-beautiful.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "50-nam-ve-sau-full.mp3",
+   "path": "lovecard/wedding-vn/50-nam-ve-sau-full.mp3",
+   "size_mb": 4.38,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/50-nam-ve-sau-full.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "50-nam-ve-sau.mp3",
+   "path": "lovecard/wedding-vn/50-nam-ve-sau.mp3",
+   "size_mb": 3.36,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/50-nam-ve-sau.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "chac-chan-mot-nguoi.mp3",
+   "path": "lovecard/wedding-vn/chac-chan-mot-nguoi.mp3",
+   "size_mb": 3.44,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/chac-chan-mot-nguoi.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "cham-em-mot-doi-duc-phuc-x-kai-dinh.mp3",
+   "path": "lovecard/wedding-vn/cham-em-mot-doi-duc-phuc-x-kai-dinh.mp3",
+   "size_mb": 2.97,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/cham-em-mot-doi-duc-phuc-x-kai-dinh.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "chi-can-minh-co-nhau-vu-cat-tuong-x-pnj.mp3",
+   "path": "lovecard/wedding-vn/chi-can-minh-co-nhau-vu-cat-tuong-x-pnj.mp3",
+   "size_mb": 2.94,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/chi-can-minh-co-nhau-vu-cat-tuong-x-pnj.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "cuoi-nhau-di-yes-i-do-bui-anh-tuan.mp3",
+   "path": "lovecard/wedding-vn/cuoi-nhau-di-yes-i-do-bui-anh-tuan.mp3",
+   "size_mb": 3.77,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/cuoi-nhau-di-yes-i-do-bui-anh-tuan.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "da-lab-mot-nha.mp3",
+   "path": "lovecard/wedding-vn/da-lab-mot-nha.mp3",
+   "size_mb": 2.93,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/da-lab-mot-nha.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "dam-cuoi-tren-lang-que.mp3",
+   "path": "lovecard/wedding-vn/dam-cuoi-tren-lang-que.mp3",
+   "size_mb": 3.81,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/dam-cuoi-tren-lang-que.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "doi-ta-trong-mo.mp3",
+   "path": "lovecard/wedding-vn/doi-ta-trong-mo.mp3",
+   "size_mb": 2.35,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/doi-ta-trong-mo.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "du-cho-tan-the.mp3",
+   "path": "lovecard/wedding-vn/du-cho-tan-the.mp3",
+   "size_mb": 2.13,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/du-cho-tan-the.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "em-dong-y-i-do-duc-phuc-x-911-x-khac-hung.mp3",
+   "path": "lovecard/wedding-vn/em-dong-y-i-do-duc-phuc-x-911-x-khac-hung.mp3",
+   "size_mb": 3.11,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/em-dong-y-i-do-duc-phuc-x-911-x-khac-hung.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "em-oi-sau-nay-trid-minh.mp3",
+   "path": "lovecard/wedding-vn/em-oi-sau-nay-trid-minh.mp3",
+   "size_mb": 3.55,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/em-oi-sau-nay-trid-minh.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "em-se-la-co-dau-minh-vuong-m4u.mp3",
+   "path": "lovecard/wedding-vn/em-se-la-co-dau-minh-vuong-m4u.mp3",
+   "size_mb": 6.74,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/em-se-la-co-dau-minh-vuong-m4u.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "giay-phut-mong-cho-minh-chau-x-phuong-nam-thanh-ca-hon-le-tin-lanh.mp3",
+   "path": "lovecard/wedding-vn/giay-phut-mong-cho-minh-chau-x-phuong-nam-thanh-ca-hon-le-tin-lanh.mp3",
+   "size_mb": 8.07,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/giay-phut-mong-cho-minh-chau-x-phuong-nam-thanh-ca-hon-le-tin-lanh.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "hanh-phuc-cuoi-cung-truong-viet-thai.mp3",
+   "path": "lovecard/wedding-vn/hanh-phuc-cuoi-cung-truong-viet-thai.mp3",
+   "size_mb": 4.44,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/hanh-phuc-cuoi-cung-truong-viet-thai.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "le-duong.mp3",
+   "path": "lovecard/wedding-vn/le-duong.mp3",
+   "size_mb": 0.89,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/le-duong.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "mai-mai-ben-nhau-noo-phuoc-thinh.mp3",
+   "path": "lovecard/wedding-vn/mai-mai-ben-nhau-noo-phuoc-thinh.mp3",
+   "size_mb": 10.04,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/mai-mai-ben-nhau-noo-phuoc-thinh.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "mot-doi-le-duong-mix.mp3",
+   "path": "lovecard/wedding-vn/mot-doi-le-duong-mix.mp3",
+   "size_mb": 1.53,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/mot-doi-le-duong-mix.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "mot-doi.mp3",
+   "path": "lovecard/wedding-vn/mot-doi.mp3",
+   "size_mb": 3.85,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/mot-doi.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "ngay-chung-doi-van-mai-huong.mp3",
+   "path": "lovecard/wedding-vn/ngay-chung-doi-van-mai-huong.mp3",
+   "size_mb": 2.9,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/ngay-chung-doi-van-mai-huong.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "ngay-dau-tien.mp3",
+   "path": "lovecard/wedding-vn/ngay-dau-tien.mp3",
+   "size_mb": 1.04,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/ngay-dau-tien.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "ngay-nay-nguoi-con-gai-nay-vu-cat-tuong.mp3",
+   "path": "lovecard/wedding-vn/ngay-nay-nguoi-con-gai-nay-vu-cat-tuong.mp3",
+   "size_mb": 2.94,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/ngay-nay-nguoi-con-gai-nay-vu-cat-tuong.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "noi-nay-co-anh.mp3",
+   "path": "lovecard/wedding-vn/noi-nay-co-anh.mp3",
+   "size_mb": 1.48,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/noi-nay-co-anh.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "ta-la-cua-nhau-dong-nhi.mp3",
+   "path": "lovecard/wedding-vn/ta-la-cua-nhau-dong-nhi.mp3",
+   "size_mb": 2.49,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/ta-la-cua-nhau-dong-nhi.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "to-duyen-hien-ngan.mp3",
+   "path": "lovecard/wedding-vn/to-duyen-hien-ngan.mp3",
+   "size_mb": 3.31,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/to-duyen-hien-ngan.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "tu-1-se-thanh-2.mp3",
+   "path": "lovecard/wedding-vn/tu-1-se-thanh-2.mp3",
+   "size_mb": 1.27,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/tu-1-se-thanh-2.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "tu-nay-em-la-vo-anh.mp3",
+   "path": "lovecard/wedding-vn/tu-nay-em-la-vo-anh.mp3",
+   "size_mb": 1.56,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/tu-nay-em-la-vo-anh.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "vay-cuoi-erik-x-ms.mp3",
+   "path": "lovecard/wedding-vn/vay-cuoi-erik-x-ms.mp3",
+   "size_mb": 3.22,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/vay-cuoi-erik-x-ms.mp3"
+  },
+  {
+   "project": "lovecard",
+   "category": "wedding-vn",
+   "file": "vo-gia-minh-vuong-m4u.mp3",
+   "path": "lovecard/wedding-vn/vo-gia-minh-vuong-m4u.mp3",
+   "size_mb": 8.02,
+   "url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/vo-gia-minh-vuong-m4u.mp3"
+  }
+ ]
 }
