@@ -417,7 +417,10 @@
   "new_file": "beautiful-in-white-westlife.mp3",
   "category": "wedding-en",
   "sources": [
-   "https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Beautiful in White - Westlife.mp3"
+   "https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Beautiful in White - Westlife.mp3",
+   "https://files.catbox.moe/4r6wht.mp3",
+   "https://procare.one/wp-content/uploads/2024/05/Shane-Filan-Beautiful-In-White.mp3",
+   "https://files.catbox.moe/jgr32s.mp3"
   ],
   "pages": [
    "anhphan-wedding",
@@ -435,7 +438,9 @@
    "hienhoan-wedding",
    "hieuanh_wedding",
    "hieuthuong-wedding",
+   "huuhieuphuongthao2",
    "khangphuong",
+   "khanh_quynh",
    "lamdien-wedding",
    "linhdat-wedding",
    "loanhung_wedding",
@@ -445,6 +450,9 @@
    "nhihuy_wedding",
    "nhivinh_wedding",
    "ninhvan-wedding",
+   "phamhieu_phuongthao",
+   "phuongtrang-trucquynh",
+   "quynh_khanh",
    "suquynh_weddinh",
    "tanvy-wedding",
    "thanhbang-wedding",
@@ -468,7 +476,7 @@
   ],
   "new_path": "lovecard/wedding-en/beautiful-in-white-westlife.mp3",
   "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/beautiful-in-white-westlife.mp3",
-  "page_count": 45
+  "page_count": 50
  },
  {
   "original_name": "Một Đời + Lễ Đường (Mix).mp3",
@@ -848,21 +856,6 @@
   "page_count": 3
  },
  {
-  "original_name": "4r6wht.mp3",
-  "new_file": "4r6wht.mp3",
-  "category": "wedding-en",
-  "sources": [
-   "https://files.catbox.moe/4r6wht.mp3"
-  ],
-  "pages": [
-   "khanh_quynh",
-   "quynh_khanh"
-  ],
-  "new_path": "lovecard/wedding-en/4r6wht.mp3",
-  "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/4r6wht.mp3",
-  "page_count": 2
- },
- {
   "original_name": "Chắc Chắn Một Người.mp3",
   "new_file": "chac-chan-mot-nguoi.mp3",
   "category": "wedding-vn",
@@ -998,21 +991,6 @@
   "page_count": 2
  },
  {
-  "original_name": "Shane-Filan-Beautiful-In-White.mp3",
-  "new_file": "shane-filan-beautiful-in-white.mp3",
-  "category": "wedding-en",
-  "sources": [
-   "https://procare.one/wp-content/uploads/2024/05/Shane-Filan-Beautiful-In-White.mp3"
-  ],
-  "pages": [
-   "huuhieuphuongthao2",
-   "phamhieu_phuongthao"
-  ],
-  "new_path": "lovecard/wedding-en/shane-filan-beautiful-in-white.mp3",
-  "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/shane-filan-beautiful-in-white.mp3",
-  "page_count": 2
- },
- {
   "original_name": "Bruno Mars - Marry You.mp3",
   "new_file": "bruno-mars-marry-you.mp3",
   "category": "wedding-en",
@@ -1122,20 +1100,6 @@
   ],
   "new_path": "lovecard/wedding-en/greeeen-ptutapidlqq.mp3",
   "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/greeeen-ptutapidlqq.mp3",
-  "page_count": 1
- },
- {
-  "original_name": "jgr32s.mp3",
-  "new_file": "jgr32s.mp3",
-  "category": "wedding-en",
-  "sources": [
-   "https://files.catbox.moe/jgr32s.mp3"
-  ],
-  "pages": [
-   "phuongtrang-trucquynh"
-  ],
-  "new_path": "lovecard/wedding-en/jgr32s.mp3",
-  "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/jgr32s.mp3",
   "page_count": 1
  },
  {

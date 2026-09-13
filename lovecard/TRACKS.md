@@ -8,7 +8,7 @@ Cột **Số trang** = số trang trên lovecard.click đang dùng bài đó.
 | 206 | 50 Năm Về Sau.mp3 | `lovecard/wedding-vn/50-nam-ve-sau.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/50 Năm Về Sau.mp3<br>https://files.catbox.moe/4dbkye.mp3 |
 | 92 | I Do - 911.mp3 | `lovecard/wedding-en/i-do-911.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/I Do - 911.mp3<br>https://cdn.jsdelivr.net/gh/beckneee-dev/mp3-hosting/I DO - 911.mp3 |
 | 74 | VÁY CƯỚI - ERIK x Ms.mp3 | `lovecard/wedding-vn/vay-cuoi-erik-x-ms.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/VÁY CƯỚI - ERIK x Ms.mp3 |
-| 45 | Beautiful in White - Westlife.mp3 | `lovecard/wedding-en/beautiful-in-white-westlife.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Beautiful in White - Westlife.mp3 |
+| 50 | Beautiful in White - Westlife.mp3 | `lovecard/wedding-en/beautiful-in-white-westlife.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Beautiful in White - Westlife.mp3<br>https://files.catbox.moe/4r6wht.mp3<br>https://procare.one/wp-content/uploads/2024/05/Shane-Filan-Beautiful-In-White.mp3<br>https://files.catbox.moe/jgr32s.mp3 |
 | 41 | Một Đời + Lễ Đường (Mix).mp3 | `lovecard/wedding-vn/mot-doi-le-duong-mix.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Một Đời + Lễ Đường (Mix).mp3 |
 | 27 | A Thousand Years - Christina Perri.mp3 | `lovecard/wedding-en/a-thousand-years-christina-perri.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/A Thousand Years - Christina Perri.mp3 |
 | 11 | Lễ Đường.mp3 | `lovecard/wedding-vn/le-duong.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Lễ Đường.mp3 |
@@ -26,7 +26,6 @@ Cột **Số trang** = số trang trên lovecard.click đang dùng bài đó.
 | 3 | 50 NĂM VỀ SAU ( FULL ).mp3 | `lovecard/wedding-vn/50-nam-ve-sau-full.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/50 NĂM VỀ SAU ( FULL ).mp3 |
 | 3 | Hạnh Phúc Cuối Cùng - Trương Việt Thái.mp3 | `lovecard/wedding-vn/hanh-phuc-cuoi-cung-truong-viet-thai.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Hạnh Phúc Cuối Cùng - Trương Việt Thái.mp3 |
 | 3 | Ngày Chung Đôi - Văn Mai Hương.mp3 | `lovecard/wedding-vn/ngay-chung-doi-van-mai-huong.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Ngày Chung Đôi - Văn Mai Hương.mp3 |
-| 2 | 4r6wht.mp3 | `lovecard/wedding-en/4r6wht.mp3` | https://files.catbox.moe/4r6wht.mp3 |
 | 2 | Chắc Chắn Một Người.mp3 | `lovecard/wedding-vn/chac-chan-mot-nguoi.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Chắc Chắn Một Người.mp3 |
 | 2 | Da LAB - Một Nhà.mp3 | `lovecard/wedding-vn/da-lab-mot-nha.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Da LAB - Một Nhà.mp3 |
 | 2 | Đám Cưới Trên Làng Quê.mp3 | `lovecard/wedding-vn/dam-cuoi-tren-lang-que.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Đám Cưới Trên Làng Quê.mp3 |
@@ -36,7 +35,6 @@ Cột **Số trang** = số trang trên lovecard.click đang dùng bài đó.
 | 2 | Giây Phút Mong Chờ Minh Châu X Phương Nam (Thánh Ca Hôn Lễ Tin Lành).mp3 | `lovecard/wedding-vn/giay-phut-mong-cho-minh-chau-x-phuong-nam-thanh-ca-hon-le-tin-lanh.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Giây Phút Mong Chờ Minh Châu X Phương Nam (Thánh Ca Hôn Lễ Tin Lành).mp3 |
 | 2 | mpeg.mp3 | `lovecard/wedding-en/mpeg.mp3` | https://statics.pancake.vn/web-media/96/57/21/22/6ebb5a1868e2db6c0d96c9dc42e8765abb92b74fe0cc8c2a5ffdbc5a-w:0-h:0-l:4127315-t:audio/mpeg.mp3 |
 | 2 | Nhạc giao hưởng 1.mp3 | `lovecard/instrumental/nhac-giao-huong-1.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Nhạc giao hưởng 1.mp3 |
-| 2 | Shane-Filan-Beautiful-In-White.mp3 | `lovecard/wedding-en/shane-filan-beautiful-in-white.mp3` | https://procare.one/wp-content/uploads/2024/05/Shane-Filan-Beautiful-In-White.mp3 |
 | 1 | Bruno Mars - Marry You.mp3 | `lovecard/wedding-en/bruno-mars-marry-you.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Bruno Mars - Marry You.mp3 |
 | 1 | CƯỚI CHÍNH REMIX.mp3 | `lovecard/instrumental/cuoi-chinh-remix.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/CƯỚI CHÍNH REMIX.mp3 |
 | 1 | Cưới Nhau Đi (Yes I Do) - Bùi Anh Tuấn.mp3 | `lovecard/wedding-vn/cuoi-nhau-di-yes-i-do-bui-anh-tuan.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Cưới Nhau Đi (Yes I Do) - Bùi Anh Tuấn.mp3 |
@@ -45,7 +43,6 @@ Cột **Số trang** = số trang trên lovecard.click đang dùng bài đó.
 | 1 | Em Ơi Sau Này - Trid Minh.mp3 | `lovecard/wedding-vn/em-oi-sau-nay-trid-minh.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Em Ơi Sau Này - Trid Minh.mp3 |
 | 1 | Forever Starts Today.mp3 | `lovecard/wedding-en/forever-starts-today.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Forever Starts Today.mp3 |
 | 1 | GReeeeN - 夏の音 [pTutApiDLqQ].mp3 | `lovecard/wedding-en/greeeen-ptutapidlqq.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/GReeeeN - 夏の音 [pTutApiDLqQ].mp3 |
-| 1 | jgr32s.mp3 | `lovecard/wedding-en/jgr32s.mp3` | https://files.catbox.moe/jgr32s.mp3 |
 | 1 | Love Story 1.mp3 | `lovecard/wedding-en/love-story-1.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Love Story 1.mp3 |
 | 1 | Ngày Này, Người Con Gái Này - Vũ Cát Tường.mp3 | `lovecard/wedding-vn/ngay-nay-nguoi-con-gai-nay-vu-cat-tuong.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Ngày Này, Người Con Gái Này - Vũ Cát Tường.mp3 |
 | 1 | Nơi Này Có Anh.mp3 | `lovecard/wedding-vn/noi-nay-co-anh.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Nơi Này Có Anh.mp3 |
