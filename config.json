@@ -1,0 +1,8 @@
+{
+  "github_user": "saygoodbyethe3-bit",
+  "github_repo": "music-hosting",
+  "branch": "main",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/{user}/{repo}@{branch}/",
+  "audio_ext": [".mp3", ".m4a", ".ogg", ".wav"],
+  "max_file_mb": 20
+}
