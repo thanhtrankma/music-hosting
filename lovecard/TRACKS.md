@@ -32,6 +32,7 @@ Cột **Số trang** = số trang trên lovecard.click đang dùng bài đó.
 | 2 | Da LAB - Một Nhà.mp3 | `lovecard/wedding-vn/da-lab-mot-nha.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Da LAB - Một Nhà.mp3 |
 | 2 | Đám Cưới Trên Làng Quê.mp3 | `lovecard/wedding-vn/dam-cuoi-tren-lang-que.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Đám Cưới Trên Làng Quê.mp3 |
 | 2 | Die With A Smile ( 1 ).mp3 | `lovecard/wedding-en/die-with-a-smile-1.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Die With A Smile ( 1 ).mp3 |
+| 2 | Ed Sheeran - Perfect.mp3 | `lovecard/wedding-en/ed-sheeran-perfect.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Ed Sheeran - Perfect.mp3 |
 | 2 | Em Sẽ Là Cô Dâu - Minh Vương M4U.mp3 | `lovecard/wedding-vn/em-se-la-co-dau-minh-vuong-m4u.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Em Sẽ Là Cô Dâu - Minh Vương M4U.mp3 |
 | 2 | Giây Phút Mong Chờ Minh Châu X Phương Nam (Thánh Ca Hôn Lễ Tin Lành).mp3 | `lovecard/wedding-vn/giay-phut-mong-cho-minh-chau-x-phuong-nam-thanh-ca-hon-le-tin-lanh.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Giây Phút Mong Chờ Minh Châu X Phương Nam (Thánh Ca Hôn Lễ Tin Lành).mp3 |
 | 2 | mpeg.mp3 | `lovecard/wedding-en/mpeg.mp3` | https://statics.pancake.vn/web-media/96/57/21/22/6ebb5a1868e2db6c0d96c9dc42e8765abb92b74fe0cc8c2a5ffdbc5a-w:0-h:0-l:4127315-t:audio/mpeg.mp3 |
@@ -49,6 +50,7 @@ Cột **Số trang** = số trang trên lovecard.click đang dùng bài đó.
 | 1 | Love Story 1.mp3 | `lovecard/wedding-en/love-story-1.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Love Story 1.mp3 |
 | 1 | Ngày Này, Người Con Gái Này - Vũ Cát Tường.mp3 | `lovecard/wedding-vn/ngay-nay-nguoi-con-gai-nay-vu-cat-tuong.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Ngày Này, Người Con Gái Này - Vũ Cát Tường.mp3 |
 | 1 | Nơi Này Có Anh.mp3 | `lovecard/wedding-vn/noi-nay-co-anh.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Nơi Này Có Anh.mp3 |
+| 1 | Nothing's Gonna Change My Love For You - Music Travel Love.mp3 | `lovecard/wedding-en/nothing-s-gonna-change-my-love-for-you-music-travel-love.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Nothing's Gonna Change My Love For You - Music Travel Love.mp3 |
 | 1 | Tơ Duyên - Hiền Ngân.mp3 | `lovecard/wedding-vn/to-duyen-hien-ngan.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Tơ Duyên - Hiền Ngân.mp3 |
 | 1 | Từ 1 sẽ thành 2.mp3 | `lovecard/wedding-vn/tu-1-se-thanh-2.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Từ 1 sẽ thành 2.mp3 |
 | 1 | TỪ NAY EM LÀ VỢ ANH.mp3 | `lovecard/wedding-vn/tu-nay-em-la-vo-anh.mp3` | https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/TỪ NAY EM LÀ VỢ ANH.mp3 |

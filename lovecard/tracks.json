@@ -935,6 +935,21 @@
   "page_count": 2
  },
  {
+  "original_name": "Ed Sheeran - Perfect.mp3",
+  "new_file": "ed-sheeran-perfect.mp3",
+  "category": "wedding-en",
+  "sources": [
+   "https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Ed Sheeran - Perfect.mp3"
+  ],
+  "pages": [
+   "trung_nhung_wedding",
+   "trungnhuong-wedding"
+  ],
+  "new_path": "lovecard/wedding-en/ed-sheeran-perfect.mp3",
+  "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/ed-sheeran-perfect.mp3",
+  "page_count": 2
+ },
+ {
   "original_name": "Em Sẽ Là Cô Dâu - Minh Vương M4U.mp3",
   "new_file": "em-se-la-co-dau-minh-vuong-m4u.mp3",
   "category": "wedding-vn",
@@ -1175,6 +1190,20 @@
   ],
   "new_path": "lovecard/wedding-vn/noi-nay-co-anh.mp3",
   "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-vn/noi-nay-co-anh.mp3",
+  "page_count": 1
+ },
+ {
+  "original_name": "Nothing's Gonna Change My Love For You - Music Travel Love.mp3",
+  "new_file": "nothing-s-gonna-change-my-love-for-you-music-travel-love.mp3",
+  "category": "wedding-en",
+  "sources": [
+   "https://cdn.jsdelivr.net/gh/saygoodbyethe3-bit/music-hosting/Nothing's Gonna Change My Love For You - Music Travel Love.mp3"
+  ],
+  "pages": [
+   "ngoc-hung-wedding"
+  ],
+  "new_path": "lovecard/wedding-en/nothing-s-gonna-change-my-love-for-you-music-travel-love.mp3",
+  "new_url": "https://cdn.jsdelivr.net/gh/thanhtrankma/music-hosting@main/lovecard/wedding-en/nothing-s-gonna-change-my-love-for-you-music-travel-love.mp3",
   "page_count": 1
  },
  {

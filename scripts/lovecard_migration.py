@@ -15,7 +15,7 @@ CFG = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8"))
 RAW = sys.argv[sys.argv.index("--raw") + 1] if "--raw" in sys.argv else \
     os.path.join(os.path.dirname(ROOT), "lovecard", "raw")
 
-AUDIO_RE = re.compile(r"""(?:src|href)=["'](https?://[^"'<>]+?\.(?:mp3|m4a|wav|ogg))["']""", re.I)
+AUDIO_RE = re.compile(r"""(?:src|href)=(["'])(https?://(?:(?!\1)[^<>])+?\.(?:mp3|m4a|wav|ogg))\s*\1""", re.I)
 VI_CHARS = re.compile(r"[ăâđêôơưàáảãạèéẻẽẹìíỉĩịòóỏõọùúủũụỳýỷỹỵ]", re.I)
 INSTR_WORDS = re.compile(r"piano|instrumental|giao hưởng|beat|lofi|không lời|remix", re.I)
 BIRTHDAY_WORDS = re.compile(r"birthday|sinh nhật", re.I)
@@ -34,7 +34,7 @@ def main():
     raw_forms = defaultdict(set)   # url sạch -> các dạng thô xuất hiện trong HTML
     for f in glob.glob(os.path.join(RAW, "*", "*.html")):
         page = os.path.basename(f)[:-5]
-        for u in set(AUDIO_RE.findall(open(f, encoding="utf-8").read())):
+        for _q, u in set(AUDIO_RE.findall(open(f, encoding="utf-8").read())):
             clean = re.sub(r"\s+", " ", u).strip()
             clean = re.sub(r"/\s+", "/", clean)        # "host/\n\nfile" -> "host/file"
             clean = clean.replace(" /", "/")
@@ -43,14 +43,34 @@ def main():
 
     base = CFG["cdn_base"].format(user=CFG["github_user"], repo=CFG["github_repo"],
                                   branch=CFG["branch"])
+    prev_file = os.path.join(ROOT, "lovecard", "tracks.json")
+    prev_sources = {}
+    if os.path.exists(prev_file):
+        for t in json.load(open(prev_file, encoding="utf-8")):
+            prev_sources[t["new_path"]] = t["sources"]
     tracks = {}
     for url, pages in uses.items():
         fname = unquote(url.rsplit("/", 1)[-1])
-        key = unicodedata.normalize("NFC", fname).strip().lower()
-        new_name = slug_filename(unicodedata.normalize("NFC", fname).strip())
+        if url.startswith(base):
+            # URL đã thuộc kho mới: lấy thẳng đường dẫn, không phân loại lại
+            rel = unquote(url[len(base):])
+            parts = rel.split("/")
+            cat, new_name = parts[1], parts[-1]
+            key = "path:" + rel
+            orig = fname
+            # tìm tên gốc từ tracks.json trước đó (nếu có)
+            for pp, srcs in prev_sources.items():
+                if pp == rel and srcs:
+                    orig = unquote(srcs[0].rsplit("/", 1)[-1])
+                    break
+        else:
+            key = unicodedata.normalize("NFC", fname).strip().lower()
+            new_name = slug_filename(unicodedata.normalize("NFC", fname).strip())
+            cat, orig = category(fname), fname
+            key = "path:" + f"lovecard/{cat}/{new_name}"
         t = tracks.setdefault(key, {
-            "original_name": fname, "new_file": new_name,
-            "category": category(fname), "sources": [], "pages": set()})
+            "original_name": orig, "new_file": new_name,
+            "category": cat, "sources": [], "pages": set()})
         t["sources"].append(url)
         t["pages"] |= pages
     rows = []
@@ -58,6 +78,9 @@ def main():
         rel = f"lovecard/{t['category']}/{t['new_file']}"
         t["new_path"] = rel
         t["new_url"] = base + quote(rel)
+        # gộp URL cũ đã ghi nhận trước đây, bỏ URL trùng với URL mới
+        merged = list(dict.fromkeys(prev_sources.get(rel, []) + t["sources"]))
+        t["sources"] = [u for u in merged if u != t["new_url"]] or merged
         t["pages"] = sorted(t["pages"])
         t["page_count"] = len(t["pages"])
         rows.append(t)
